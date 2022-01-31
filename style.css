@@ -143,3 +143,20 @@ button{
 .more > div{
   margin: 50px 50px 20px 50px;
 }
+@media screen and (max-width: 780px){
+  .section1 h1{
+    font-size: 80px;
+  }
+  .aboutme{
+    flex-direction: column;
+  }
+  .section2{
+    flex-direction: column-reverse;
+    height: auto;
+    margin-bottom: 20px;
+  }
+  .section3{
+    flex-direction: column;
+    height: auto;
+  }
+}
