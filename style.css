@@ -145,7 +145,7 @@ button{
 }
 @media screen and (max-width: 780px){
   .section1 h1{
-    font-size: 80px;
+    font-size: 60px;
   }
   .aboutme{
     flex-direction: column;
